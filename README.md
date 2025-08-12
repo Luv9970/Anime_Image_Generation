@@ -11,7 +11,8 @@ This repository contains the Jupyter Notebook:
 ## 📂 Dataset
 - **File Name:** `your_dataset.csv` (or the actual name)
 - **Size:** ~500 MB  
-- **Format:** CSV/Parquet/etc.  
+- **Format:** CSV/Parquet/etc.
+- **Dataset Link:** https://drive.google.com/drive/folders/1jTi09p6ryqmds8DlSx-Fr59aC0TwrKEi?usp=sharing 
 - The dataset is versioned and stored using [Git Large File Storage (Git LFS)](https://git-lfs.com/).
 
 ## 🚀 Getting Started
